@@ -3,8 +3,8 @@
 # Diagramme de cas d’utilisation.
 
 > ## Exemple numero 1:
-
-![image](https://user-images.githubusercontent.com/92023794/199438241-4d336c21-0f01-43f4-b34f-5a4bb12843bb.png)
+Exemple détailler
+![image](https://user-images.githubusercontent.com/92023794/199441507-884d1c51-d168-4b73-8549-303d414a872e.png)
 
 > ## Exemple numero 2:
-
+exemple simplifier
