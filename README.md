@@ -26,6 +26,10 @@ https://youtu.be/ZxSuSDWNWgM
 
 > ## 3_ Diagramme de classe
 
+Presentation
+
 https://youtu.be/JFWuSdMzOMw
 
+Exercice
 
+https://youtu.be/UI6lqHOVHic
