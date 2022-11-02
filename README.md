@@ -6,4 +6,3 @@
 
 > ## 3_ Diagramme de classe.
 
-> ## 4_ Diagramme de séquence dynamique.
