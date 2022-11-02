@@ -8,3 +8,5 @@ Exemple détailler
 
 > ## Exemple numero 2:
 exemple simplifier
+![image](https://user-images.githubusercontent.com/92023794/199446023-03bc7d8d-248e-4b97-81ad-f8f4f37193b5.png)
+
