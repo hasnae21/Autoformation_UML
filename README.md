@@ -21,7 +21,7 @@
 
 > Exercice  /https://youtu.be/UI6lqHOVHic
 
-## <a href="">4_ Diagramme de séquence dynamique</a>
+## <a href="https://github.com/hasnae21/Autoformation_UML/tree/main/diagramme%20de%20s%C3%A9quences%20dynamique">4_ Diagramme de séquence dynamique</a>
 
 > Presentation  
 
