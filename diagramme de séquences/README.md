@@ -18,9 +18,9 @@ et l'ATM doit verifier la validation de la carte boncaire et du code PIN
 > Exemple numero 3
 
 > Exercice d'application (system vol reservation)
-Le déroulement de réservation de vol est le suivant:
 
-le Client sélectionne un vol.
+> Le déroulement de réservation de vol est le suivant:
+> le Client sélectionne un vol.
 Une validation de nombre de place automatique du système se déclenche.
 Si le nombre de places réservés est inferieur au nombre de places disponibles
 dans un vol, la création de la réservation se lance, sinon une erreur s'affichera
