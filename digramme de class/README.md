@@ -2,12 +2,16 @@
 
 ## Présentation
 
-### LES ATTRIBUTS
+#### LES ATTRIBUTS
 Une pièce importante de données contenant des valeurs qui décrivent chaque instance de cela classer. Aussi appelés champs,variables, propriétés.
 
 
-### MÉTHODES
+#### MÉTHODES
 Aussi appelées opérations ou des fonctions. Permet de spécifier toute caractéristique comportementale d'une classe.
+
+> Exemple
+
+![image](https://user-images.githubusercontent.com/92023794/199717049-34117d75-85dd-4843-8299-cb971fed522a.png)
 
 
 ### Visibilité
