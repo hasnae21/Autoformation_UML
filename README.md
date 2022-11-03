@@ -1,6 +1,6 @@
 # Autoformation_UML
 
-> ## <a href="[https://www.youtube.com/watch?v=rKq82MoPbtk](https://github.com/hasnae21/Autoformation_UML/tree/main/diagramme%20de%20cas%20d'utilisation)">1_ Diagramme de cas d’utilisation</a>
+> ## <a href="https://github.com/hasnae21/Autoformation_UML/tree/main/diagramme%20de%20cas%20d'utilisation">1_ Diagramme de cas d’utilisation</a>
 
 Presentation + Exercices 
 
