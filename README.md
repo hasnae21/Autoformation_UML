@@ -1,7 +1,6 @@
 # Autoformation_UML
 
-> ## <a href="
-https://www.youtube.com/watch?v=rKq82MoPbtk" >1_ Diagramme de cas d’utilisation</a>
+> ## <a href="https://www.youtube.com/watch?v=rKq82MoPbtk">1_ Diagramme de cas d’utilisation</a>
 
 Presentation + Exercices 
 
