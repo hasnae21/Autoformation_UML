@@ -31,7 +31,7 @@ Aussi appelées opérations ou des fonctions. Permet de spécifier toute caract�
 
 > Exemple 
 
-![image](https://user-images.githubusercontent.com/92023794/199716632-4fa43241-e7e6-4ac1-bca4-d47a58a0dd98.png)
+![image](https://user-images.githubusercontent.com/92023794/199717540-87a58785-e9f8-41fc-a952-ccfd01a4b6bd.png)
 
 
 ### LA Multiplicité
