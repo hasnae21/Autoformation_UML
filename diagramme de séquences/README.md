@@ -8,8 +8,10 @@ login system
 
 > Exemple numero 2
 > 
-Bank system
 
+> Exercice d'application (Bank system)
+le client entre sa carte bancaire dans le ATM
+et l'ATM doit verifier la validation de la carte boncaire et du code PIN
 
 ![image](https://user-images.githubusercontent.com/92023794/199466551-97e9b254-2357-4e22-a01d-9d3c8d704e4b.png)
 
@@ -17,6 +19,7 @@ Bank system
 
 > Exercice d'application (system vol reservation)
 Le déroulement de réservation de vol est le suivant:
+
 le Client sélectionne un vol.
 Une validation de nombre de place automatique du système se déclenche.
 Si le nombre de places réservés est inferieur au nombre de places disponibles
