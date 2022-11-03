@@ -15,13 +15,17 @@ secrétaire utilisera également l'application pour générer des rapports afin 
 les fiches de paie des tuteurs qui ont suivi leur cours réservé
 rendez-vous
 
-> Exemple détailler
+> Version détailler
 
 ![image](https://user-images.githubusercontent.com/92023794/199442728-b3ecaf21-4508-4a7d-b4e0-87a504d305a6.png)
 
-> Exemple simplifier
+> Version simplifier
 
 ![image](https://user-images.githubusercontent.com/92023794/199446023-03bc7d8d-248e-4b97-81ad-f8f4f37193b5.png)
+
+> Version valider(Livecoding)
+![image](https://user-images.githubusercontent.com/92023794/199767135-48bc305f-c89b-47bb-ab46-94fa4d4e3e49.png)
+
 
 ## Exemple numero 2:
 Les stagiaires d'un établissement de formation désirent développer une application Web genre
