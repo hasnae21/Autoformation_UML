@@ -3,15 +3,25 @@
 ## Presentation
 
 > Class structure
+
 ### LES ATTRIBUTS
 Une pièce importante de données contenant des valeurs qui décrivent chaque instance de cela classer. Aussi appelés champs,variables, propriétés.
-MÉTHODES
-Aussi appelées opérations
-ou des fonctions.
-Permet de spécifier
-toute caractéristique comportementale
-d'une classe.
-![image](https://user-images.githubusercontent.com/92023794/199476407-6bc509f8-bba4-4fac-978f-f0ff5f9895a8.png)
+
+### MÉTHODES
+Aussi appelées opérations ou des fonctions. Permet de spécifier toute caractéristique comportementale d'une classe.
+
+### Visibilité
+
+- - privé
+
+- + publique
+
+- # protégé
+
+- ~ paquet/par défaut
+
+### Exemple
+![image](https://user-images.githubusercontent.com/92023794/199706511-bed7d8f7-8b73-4c70-97fe-376eedf04f44.png)
 
 > ### Class exemple
 
