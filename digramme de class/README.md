@@ -25,6 +25,10 @@ Aussi appelées opérations ou des fonctions. Permet de spécifier toute caract�
 - Agrégation 
 - Composition 
 
+> Exemple 
+
+![image](https://user-images.githubusercontent.com/92023794/199716632-4fa43241-e7e6-4ac1-bca4-d47a58a0dd98.png)
+
 
 ### Multiplicité
 
@@ -35,7 +39,7 @@ Aussi appelées opérations ou des fonctions. Permet de spécifier toute caract�
 (m..n) plage de numéros spécifique
 
 
-### Class exemple
+### Classe Exemple
 
 ![image](https://user-images.githubusercontent.com/92023794/199478499-6d4c58b5-8a33-4fd7-9fee-5675b2858e9e.png)
 
