@@ -6,7 +6,7 @@
 Une pièce importante de données contenant des valeurs qui décrivent chaque instance de cela classer. Aussi appelés champs,variables, propriétés.
 
 
-#### MÉTHODES
+#### LES MÉTHODES
 Aussi appelées opérations ou des fonctions. Permet de spécifier toute caractéristique comportementale d'une classe.
 
 > Exemple
@@ -14,7 +14,7 @@ Aussi appelées opérations ou des fonctions. Permet de spécifier toute caract�
 ![image](https://user-images.githubusercontent.com/92023794/199717049-34117d75-85dd-4843-8299-cb971fed522a.png)
 
 
-### Visibilité
+### LA Visibilité
 
 - privé (-)
 - publique (+)
@@ -22,7 +22,7 @@ Aussi appelées opérations ou des fonctions. Permet de spécifier toute caract�
 - paquet/par défaut (~)
 
 
-### Relations
+### LES Relations
 
 - Héritage 
 - Association
@@ -34,13 +34,19 @@ Aussi appelées opérations ou des fonctions. Permet de spécifier toute caract�
 ![image](https://user-images.githubusercontent.com/92023794/199716632-4fa43241-e7e6-4ac1-bca4-d47a58a0dd98.png)
 
 
-### Multiplicité
+### LA Multiplicité
+
 
 (0..1) zéro à un (facultatif)
+
 (n) numéro spécifique
+
 (0..*) zéro à plusieurs
+
 (1..*) un à plusieurs
+
 (m..n) plage de numéros spécifique
+
 
 
 ### Classe Exemple
