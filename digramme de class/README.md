@@ -1,6 +1,6 @@
-# Diagramme de class
+# Diagramme de classe
 
-## Presentation
+## Présentation
 
 > Class structure
 
@@ -13,15 +13,16 @@ Aussi appelées opérations ou des fonctions. Permet de spécifier toute caract�
 ### Visibilité
 
 - privé (-)
-
 - publique (+)
-
 - protégé (#)
-
 - paquet/par défaut (~)
+- 
+### Relations
 
-### Exemple
-![image](https://user-images.githubusercontent.com/92023794/199706511-bed7d8f7-8b73-4c70-97fe-376eedf04f44.png)
+- Héritage 
+- Association
+- Agrégation 
+- Composition 
 
 > ### Class exemple
 
