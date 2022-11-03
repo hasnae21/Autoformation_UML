@@ -5,6 +5,10 @@
 
 ![image](https://user-images.githubusercontent.com/92023794/199462384-300b9146-fbf7-47c4-9c4a-617bd6540f82.png)
 
+> Generate rapport system
+
+<img width="561" alt="sequnce" src="https://user-images.githubusercontent.com/92023794/199770429-0286fa03-53ea-449e-b9f5-7132809bc98f.png">
+
 ## Exemple numero 2
 > Exercice d'application (Bank system)
 
@@ -17,7 +21,6 @@ et l'ATM doit verifier la validation de la carte boncaire et du code PIN
 > Exercice d'application (system vol reservation)
 
 Le déroulement de réservation de vol est le suivant:
-
 
 le Client sélectionne un vol.
 Une validation de nombre de place automatique du système se déclenche.
