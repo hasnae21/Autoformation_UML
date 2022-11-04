@@ -7,7 +7,6 @@
 
 > Generate rapport system
 
-<img src="https://user-images.githubusercontent.com/92023794/199770429-0286fa03-53ea-449e-b9f5-7132809bc98f.png">
 
 ## Exemple numero 2
 > Exercice d'application (Bank system)
