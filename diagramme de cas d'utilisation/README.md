@@ -12,8 +12,7 @@ choix en fonction des critères de recherche.
 Le secrétaire du département sera responsable du maintien
 les cours, les tuteurs et les rendez-vous dans l'application. La
 secrétaire utilisera également l'application pour générer des rapports afin de préparer
-les fiches de paie des tuteurs qui ont suivi leur cours réservé
-rendez-vous
+les fiches de paie des tuteurs qui ont suivi leur cours réservé rendez-vous
 
 > Version détailler
 
